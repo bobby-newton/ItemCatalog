@@ -1,0 +1,21 @@
+item_id,user_id,name,description,catalogue_id
+1,1,Kit,Home and Away Football Kit,1
+2,1,Ball,Excellent leather Football,1
+3,1,Shinguards,Protect your shins,1
+4,1,Kit,Real basketball team kit to help you stand out,2
+5,1,Ball,A proper real size basketball,2
+6,1,Net,Practice with this great net,2
+7,1,Kit,Stand out from the crowd,3
+8,1,Bat,Go for a homerun,3
+9,1,Baseball,Real unique Baseball,3
+10,1,Frisbee,Catch it before your dog does,4
+11,1,Snowboard,Show off your talents with this Snowboard,5
+12,1,Boots,Snowboard boots,5
+13,1,Snowkit,Keep your warm,5
+14,1,Hooks,Great grapple hooks,6
+15,1,Climbing Gear,For the genuine Rock Climber,6
+16,1,Foosballs,Better to have spares,7
+17,1,Table,Can't play Foosball without the table,7
+18,1,Ice Skates,Glide around and show off that skill,8
+19,1,Stick,Hit that puck in the back of the net,9
+20,1,Skates,Great skates to help you on the ice,9
